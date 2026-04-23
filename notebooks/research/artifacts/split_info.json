@@ -1,0 +1,9 @@
+{
+  "n_total": 4099,
+  "n_train": 2515,
+  "n_test": 1258,
+  "train_start": "2010-01-05",
+  "train_end": "2019-12-31",
+  "test_start": "2020-01-02",
+  "test_end": "2024-12-31"
+}

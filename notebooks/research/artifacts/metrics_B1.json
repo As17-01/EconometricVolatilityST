@@ -1,0 +1,19 @@
+{
+  "n":1258.0,
+  "RMSE_abs_r":0.8867367745,
+  "MAE_abs_r":0.6333610439,
+  "QLIKE":1.0897926413,
+  "MZ_a":0.1645034573,
+  "MZ_b":0.9001691473,
+  "MZ_R2":0.3042251051,
+  "VaR5_violations":99.0,
+  "VaR5_rate":0.0786963434,
+  "VaR5_expected_rate":0.05,
+  "VaR5_kupiec_LR":18.7091995951,
+  "VaR5_kupiec_p":0.0000152246,
+  "VaR1_violations":20.0,
+  "VaR1_rate":0.0158982512,
+  "VaR1_expected_rate":0.01,
+  "VaR1_kupiec_LR":3.7492560413,
+  "VaR1_kupiec_p":0.0528310209
+}
